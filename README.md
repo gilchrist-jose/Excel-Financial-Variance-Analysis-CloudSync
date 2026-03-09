@@ -13,7 +13,7 @@ Interactive financial variance dashboard analyzing $111M in annual financial per
 
 **Dashboard Preview:**
 
-<img width="1820" height="658" alt="CloudSync_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/ccae283e-a532-4d3e-bf9f-581faeceac98" />
+<img width="1825" height="663" alt="image" src="https://github.com/user-attachments/assets/16bba8b8-8a56-412b-a7bd-f92374c78bf0" />
 
 ---
 
