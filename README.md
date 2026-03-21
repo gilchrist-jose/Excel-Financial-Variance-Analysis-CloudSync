@@ -209,9 +209,6 @@ Data Analyst | Business Intelligence
 💼 [LinkedIn](https://www.linkedin.com/in/gilchrist-jose-a96658322/)  
 ✉️ gill.christ11@gmail.com
 
-**Related Projects:**
-- [Sales Performance Analytics]([https://github.com/gilchrist-jose/TechGear-Sales-Analysis-2025](https://github.com/gilchrist-jose/Excel-Sales-Analysis-TechGear)) - Interactive sales dashboard with trend analysis and KPI tracking
-
 ---
 
 ## Tags
