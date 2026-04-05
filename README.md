@@ -181,8 +181,6 @@ Merge on Composite Key → Calculated Metrics → Load to Data Model
 ```
 ├── README.md
 ├── CloudSync_Financial_Variance_Analysis_2025.xlsx
-├── CloudSync_Actuals_2025.csv
-├── CloudSync_Budget_2025.csv
 └── CloudSync_Dashboard_Screenshot.png
 ```
 
